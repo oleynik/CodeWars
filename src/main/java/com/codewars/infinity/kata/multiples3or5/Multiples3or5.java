@@ -1,4 +1,4 @@
-package com.codewars.infinity.multiples3or5;
+package com.codewars.infinity.kata.multiples3or5;
 
 import java.util.stream.IntStream;
 

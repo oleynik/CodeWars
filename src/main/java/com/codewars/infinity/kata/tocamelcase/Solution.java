@@ -1,4 +1,4 @@
-package com.codewars.infinity.tocamelcase;
+package com.codewars.infinity.kata.tocamelcase;
 
 import java.util.stream.Stream;
 

@@ -1,4 +1,4 @@
-package com.codewars.infinity.missingletter;
+package com.codewars.infinity.kata.missingletter;
 
 import java.util.Arrays;
 

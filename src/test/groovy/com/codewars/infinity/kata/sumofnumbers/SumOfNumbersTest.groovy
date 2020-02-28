@@ -1,4 +1,4 @@
-package com.codewars.infinity.sumofnumbers
+package com.codewars.infinity.kata.sumofnumbers
 
 import spock.lang.Specification
 

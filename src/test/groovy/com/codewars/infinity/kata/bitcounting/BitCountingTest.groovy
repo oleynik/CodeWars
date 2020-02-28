@@ -1,4 +1,4 @@
-package com.codewars.infinity.bitcounting
+package com.codewars.infinity.kata.bitcounting
 
 import spock.lang.Specification
 

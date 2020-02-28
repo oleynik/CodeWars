@@ -1,4 +1,4 @@
-package com.codewars.infinity.spinwords;
+package com.codewars.infinity.kata.spinwords;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
