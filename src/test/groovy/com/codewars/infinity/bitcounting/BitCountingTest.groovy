@@ -4,7 +4,7 @@ import spock.lang.Specification
 
 class BitCountingTest extends Specification {
 
-    def "BitCount of #n is #r" () {
+    def "BitCount" () {
         expect:
             BitCounting.countBits(n) == r
         where:
