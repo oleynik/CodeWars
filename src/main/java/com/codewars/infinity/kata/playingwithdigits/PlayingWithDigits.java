@@ -2,8 +2,7 @@ package com.codewars.infinity.kata.playingwithdigits;
 
 public class PlayingWithDigits {
 
-    private PlayingWithDigits() {
-    }
+    private PlayingWithDigits() {}
 
     public static long digPow(int n, int p) {
         double sum = 0;
